@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&size=30&color=000080&height=60&width=900&duration=3000&center=true&lines=Computer+Science+Engineering+Student;Exploring+Technology;Learning+Machine+Learning+and+Data+Science;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&size=30&color=white&height=60&width=900&duration=3000&center=true&lines=Computer+Science+Engineering+Student;Exploring+Technology;Learning+Machine+Learning+and+Data+Science;Building+Real-World+Projects" />
 </p>
 
 ---
