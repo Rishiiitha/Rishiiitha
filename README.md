@@ -157,16 +157,18 @@ I practise Data Structures & Algorithms, primarily using **Java**, while also so
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishiiitha&show_icons=true&hide_border=true&bg_color=080808&title_color=FF4D4D&text_color=FFFFFF&icon_color=FF4D4D&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiiitha&layout=compact&hide_border=true&bg_color=080808&title_color=FF4D4D&text_color=FFFFFF"/>
+
+<!-- GitHub Stats -->
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Rishiiitha&show_icons=true&hide_border=true&bg_color=080808&title_color=FF4D4D&text_color=FFFFFF&icon_color=FF4D4D&rank_icon=github"/>
+
+<!-- Top Languages -->
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishiiitha&layout=compact&hide_border=true&bg_color=080808&title_color=FF4D4D&text_color=FFFFFF"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishiiitha&hide_border=true&background=080808&ring=FF4D4D&fire=B00000&currStreakLabel=FF4D4D&sideLabels=FFFFFF&dates=AAAAAA" width="75%"/>
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com/?user=Rishiiitha&hide_border=true&background=080808&ring=FF4D4D&fire=B00000&currStreakLabel=FF4D4D&sideLabels=FFFFFF&dates=AAAAAA" width="75%"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishiiitha&bg_color=080808&color=FFFFFF&line=FF4D4D&point=B00000&area=true&hide_border=true" width="95%"/>
 
 </div>
 
