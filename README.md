@@ -9,6 +9,9 @@
 <a href="https://github.com/Rishiiitha"><img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rishitha-v-151206r/"><img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/Rishitha-V/"><img src="https://img.shields.io/badge/LeetCode-0B0B0B?style=for-the-badge&logo=leetcode&logoColor=FF4D4D"/></a>
+<a href="https://rishiiitha.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF4D4D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
